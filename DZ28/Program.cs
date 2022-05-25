@@ -3,6 +3,7 @@
 M = 1; N = 15 -> 120
 M = 4; N = 8. -> 30*/
 
+
 Console.Clear();
 Console.WriteLine("Введите начальное число");
 int m = int.Parse(Console.ReadLine()!);
